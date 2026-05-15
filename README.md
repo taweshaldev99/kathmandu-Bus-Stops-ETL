@@ -3,10 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL-green?logo=postgresql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-orange)
 
 A Python-based **ETL pipeline** project that extracts bus stop data from **OpenStreetMap**, transforms it using **Pandas**, and loads it into an **SQLite database** (extendable to PostgreSQL/MySQL).  
-This project was built as part of my application for the **Dlytica Data Science & Analytics Fellowship**.
+This project was built as part of my application for the ** Training **.
 
 ---
 
@@ -15,7 +14,7 @@ This project was built as part of my application for the **Dlytica Data Science 
 - **Language**: Python (Pandas, Requests, SQLite3, SQLAlchemy)  
 - **Data Source**: OpenStreetMap (Overpass API)  
 - **Database**: SQLite (transport.db) → extendable to PostgreSQL/MySQL  
-- **Libraries**: `pandas`, `requests`, `sqlalchemy`
+- **Libraries**: `pandas`, `requests`
 
 ---
 
